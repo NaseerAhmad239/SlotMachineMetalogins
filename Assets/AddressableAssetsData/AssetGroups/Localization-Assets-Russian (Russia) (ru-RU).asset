@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (Russia) (ru-RU)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (Russia) (ru-RU)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3aa366b4f67a7b145b3a4bd659538987
+  m_SerializeEntries:
+  - m_GUID: 70a95ac41166ff742a7992a305e59400
+    m_Address: ROBOTO-BLACK
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f139b013eb935984dbb48f6200c44eef
+    m_Address: Group 1867 (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c649c39d36cc84147925bc656739f54d
+    m_Address: Group 8cvbnh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2d76e6454e561c46a5798af92ca839d
+    m_Address: Group 82 (2)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba437220aa6ada749b2fba29fd5ca433
+    m_Address: "\u0421\u0438\u043C\u0432\u043E\u043B\u044B_"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf7d70a1ec0650c4ba1f13d00b872ce6
+    m_Address: "\u0412\u044B\u0438\u0433\u0440\u044B\u0448\u043D\u044B\u0435 \u043B\u0438\u043D\u0438\u0438_"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 280cc3d9491d9234da880abe164bcd17
+    m_Address: "\u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u0438_"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 466ba36a9b72b124cb5e4628b9945098
+    m_Address: "\u041F\u043E\u0431\u0435\u0434\u0430_"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 37fc1d7b13714be4f9b10b4f4cdf0154, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eadb6ec1b0b3cb04b9bf8e0902a5026d, type: 2}
+    - {fileID: 11400000, guid: ec6fcf6fab24cee499d98ebffddefda5, type: 2}

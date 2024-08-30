@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Sprite Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1de8da1298fcae74394acf7bba5fb359, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8767901696
+    m_Localized: b3f949635fbeb6a4091bae801374e6b2[Group 1867]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10366492577792
+    m_Localized: 215d74f1ac6fccb42b869d8c6cec763c[Group 82]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12555449503744
+    m_Localized: 3bd2a87749c233040ab73907958c22e9[Group 82]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17639285690368
+    m_Localized: b011c9882aa44864b8a14abe1988b33b[Symbols_]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18767024984064
+    m_Localized: a6e0a5ee2310bbf4abe248cec7877f76[Win and Winlines_]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23708137394176
+    m_Localized: 2f06302c8901e9e49999c1147fdb504a[Specials_]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24390198333440
+    m_Localized: c81cdfa60c2694445b1e2a231f5396ff[Win_]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

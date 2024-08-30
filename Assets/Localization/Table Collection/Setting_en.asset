@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Setting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 25411f7faa2cc864ba96f5b2dcfeb960, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17492054016
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10494771171328
+    m_Localized: SOUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11650809434112
+    m_Localized: ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16314669961216
+    m_Localized: OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50792968720384
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50885570564096
+    m_Localized: Repetitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51840349343744
+    m_Localized: Stop Balance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52720024915968
+    m_Localized: STORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56315566854144
+    m_Localized: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56498388176896
+    m_Localized: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58192035549184
+    m_Localized: Purchases are non-refundable. When you purchase coins, they will
+      be added to your balance immediately
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61932708794368
+    m_Localized: Try to win a million!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77853561163776
+    m_Localized: OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87642420776960
+    m_Localized: Try for free!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112337828417536
+    m_Localized: 'When you buy a ticket, you will see 20 cells on the playing field.
+      Behind each of them will be hidden a certain amount of money. Click on a cell
+      to reveal its contents.
+
+      The game ends as soon as you find 3 identical
+      values and the winning amount will be added to your balance immediately after
+      the game.
+
+      The amounts you can find are: 0, 5000, 25000, 100000 and 1
+      million (1M).
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115463608307712
+    m_Localized: CONDITIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350671246954496
+    m_Localized: YOU WINNINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365551693828096
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166487357984768
+    m_Localized: Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166599022940160
+    m_Localized: Auto Spin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1167019124428800
+    m_Localized: "MAX \nBET"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1519468469260288
+    m_Localized: WIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1897573084008448
+    m_Localized: '<size=50>.</size> Symbols pay anywhere
+
+      <size=50>.</size>
+      All winnings are multiplied fixed. The amount of winnings varies depending
+      on the bet and the number of symbol repetitions
+
+      <size=50>.</size> When
+      winning with multiple symbols, all wins are added to the total win
+
+      <size=50>.</size>
+      Free spins win as awarded to the player after the round completes
+
+      <size=50>.</size>
+      The free spins are based on the last wager that resulted in them
+
+      <size=50>.</size>
+      Free spins total win contains the whole win of the cycle
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1900623248986112
+    m_Localized: "<size=50>.</size> The Scatter symbols appear anywhere on the screen.
+      These symbols give you free spins if there are enough of them for a minimum
+      <size=50>.</size> Scatter combination\r\n<size=50>.</size> The Tumble means
+      that after every spin, winning combinations are paid and all winning symbols
+      disappear. The remaining symbols fall <size=50>.</size> to the bottom of the
+      screen and the empty positions are replaced with symbols coming from above\r\n<size=50>.</size>
+      Tumbling will continue until no more winning combinations appear as a result
+      of a tumble. There\u2019s no limit to the number of  possible tumbles\r\n<size=50>.</size>
+      All wins are added to the player\u2019s ballance after all of the tumbles resulted
+      from a base spin have been played\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1901324846993408
+    m_Localized: "<size=50>.</size> You bet can be adjusted using the \u201C+\u201D
+      and \u201C-\u201D buttons next to the bet window\r\n<size=50>.</size> Tap the
+      Auto Spin button to activate autoplay. It can be deactivated by tapping this
+      button again \u201C\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1903700614025216
+    m_Localized: "<size=50>.</size> Standard symbols pay from left to right when
+      appearing on consecutive reels, on a winning line and starting on the leftmost
+      reel (except Scatter symbols).\r\n<size=50>.</size> Each spin is played with
+      a maximum number of winning lines\r\n<size=50>.</size> Only the highest winnings
+      are paid out on each winning line\r\n<size=50>.</size> All winnings depend
+      on the bet: the higher the bet, the bigger the payout.\r\n<size=50>.</size>
+      All winnings are multiplied by the bet per line\r\n<size=50>.</size> Winnings
+      for free spins are credited to the player after the round is over\r\n<size=50>.</size>
+      Free spins are based on the last bet that led to their accrual.\r\n<size=50>.</size>
+      Total winnings for free spins include all winnings for the round\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1910004137037824
+    m_Localized: "<size=50>.</size> The Wild symbol can appear on reels 1, 2, 3,
+      4 and 5. It substitutes for all symbols except Scatter symbols. The payout
+      for Wild is made as for a standard symbol.\r\n<size=50>.</size> Scatter symbols
+      appear on reels 1,2,3,4 and 5. Its symbols do not have to appear on an active
+      winning line to get free spins.\r\n<size=50>.</size> Free spins occur at the
+      same bet that led to their receipt.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1910551082668032
+    m_Localized: "<size=50>.</size> The bet can be adjusted using the \u201C+\u201D
+      and \u201C-\u201D buttons next to the bet window.\r\n<size=50>.</size> Click
+      the Auto Spin button to activate the autoplay. It can be deactivated by pressing
+      this button again.\u201D\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

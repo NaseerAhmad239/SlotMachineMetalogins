@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Setting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Setting
+  m_TableCollectionNameGuidString: 25411f7faa2cc864ba96f5b2dcfeb960
+  m_Entries:
+  - m_Id: 17492054016
+    m_Key: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10494771171328
+    m_Key: SOUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11650809434112
+    m_Key: ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16314669961216
+    m_Key: OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50792968720384
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50885570564096
+    m_Key: Repetitions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51840349343744
+    m_Key: Stop Balance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52720024915968
+    m_Key: STORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56315566854144
+    m_Key: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56498388176896
+    m_Key: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58192035549184
+    m_Key: PurchaseNote
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61932708794368
+    m_Key: Millionare Note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77853561163776
+    m_Key: OPEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87642420776960
+    m_Key: Try for free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112337828417536
+    m_Key: TokenCondition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115463608307712
+    m_Key: CONDITIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350671246954496
+    m_Key: YOU WINNINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365551693828096
+    m_Key: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166487357984768
+    m_Key: Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166599022940160
+    m_Key: Auto Spin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1167019124428800
+    m_Key: MAX BET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1519468469260288
+    m_Key: WIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1897573084008448
+    m_Key: Symbols pay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1900623248986112
+    m_Key: ScatterSymbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1901324846993408
+    m_Key: Tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1903700614025216
+    m_Key: winlines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1910004137037824
+    m_Key: symbols
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1910551082668032
+    m_Key: tip for mam
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7275579610828374040
+  references:
+    version: 2
+    RefIds:
+    - rid: 7275579610828374040
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1720160747649
